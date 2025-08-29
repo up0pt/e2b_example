@@ -1,0 +1,11 @@
+[project]
+name = "e2b-example"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "e2b>=2.0.0",
+    "e2b-code-interpreter>=2.0.0",
+    "pip>=25.2",
+]
